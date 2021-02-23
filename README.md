@@ -1,6 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/shayne243">
 <img align="center" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shayne243&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
+<p>
+  <li>I am currently working</li>
+</p>
 
 <br>
 
