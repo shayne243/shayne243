@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Shayne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayne243&count_private=true&show_icons=true&theme=dracula&hide=stars)
-![Shayne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayne243&theme=tokyonight&langs_count=10&hide=javascript)
+![Shayne's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shayne243&theme=tokyonight&langs_count=10&hide=csharp)
 
   
 <br>
