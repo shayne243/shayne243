@@ -9,7 +9,7 @@
 <br>
 <!--
 <a href="https://github.com/shayne243">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayne243&count_private=true&show_icons=true&theme=dracula&hide=stars" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shayne243&count_private=true&show_icons=true&theme=dracula&hide=stars" /> -->
 </a> -->
 
 
