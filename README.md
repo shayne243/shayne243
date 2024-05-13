@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Shayne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shayne243&count_private=true&show_icons=true&theme=dracula&hide=stars)
-
   
 <br>
 
